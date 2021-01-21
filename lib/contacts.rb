@@ -17,3 +17,20 @@ require 'pry'
 def remove_strawberry(contacts)
 
 end
+
+def "Jon Snow" => {	
+	name: "Jon",
+	email: "jon_snow@thewall.we",
+	favorite_ice_cream_flavors: ["chocolate", "vanilla"]
+  },
+end
+
+def	"Freddy Mercury" => {
+	name: "Freddy",
+	email: "freddy@mercury.com",
+	favorite_ice_cream_flavors: ["strawberry", "cookie dough", "mint chip"]
+	}
+	}
+	puts remove_strawberry(contacts)
+end
+	
